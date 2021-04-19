@@ -1,2 +1,6 @@
 name: Team awesome's approval workflow
 on: pull_request_review
+
+jobs:
+    labe;WhenApproved:
+        runs-on: ubuntu-latest
